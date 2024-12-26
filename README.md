@@ -2,7 +2,7 @@
 
 ## Installation
 
-To get started with this project, follow the steps below:
+To get started with this project, follow thae steps below:
 
 1. **Clone the repository:**
 
